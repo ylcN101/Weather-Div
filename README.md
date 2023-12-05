@@ -3,6 +3,7 @@
 
 This script allows you to easily integrate a dynamic weather div into your webpage, displaying the weather forecast for the next two weeks for a specified city or coordinates.
 
+  <img src="https://res.cloudinary.com/dezqiqsqb/image/upload/v1701781004/bhjtwfsdjirzwuvcpfez.png" alt="Logo">
 
 ## Usage/Examples
 To use the Dynamic Weather Div on your webpage, follow these simple steps:
